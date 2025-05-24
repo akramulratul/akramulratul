@@ -8,9 +8,10 @@
         I’m currently learning React/Next js.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://linkedin.com/in/mirzamojahid">
+    <a href="[https://www.linkedin.com/in/akramul-ratul]">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?logo=google-chrome&logoColor=white)](https://akramulhassan.netlify.app)
     <a href="https://www.kaggle.com/mirzamojahid">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
